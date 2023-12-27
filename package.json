@@ -1,0 +1,22 @@
+{
+  "name": "leettub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "postcss-cli": "^11.0.0"
+  }
+}
